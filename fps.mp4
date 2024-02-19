@@ -1,0 +1,1 @@
+std::cout << xRot << " " << yRot << " " << zRot << " " << FPS << "\n"; //xRot, yRot, and zRot are my cube's rotation.

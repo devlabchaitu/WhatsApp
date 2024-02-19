@@ -1,0 +1,7 @@
+<video poster="poster.jpg" controls>
+	<source src="av1.mp4" type='video/mp4; codecs="av01.0.00M.08, opus"'>
+	<source src="avc.mp4" type='video/mp4; codecs="avc1.4D401E, mp4a.40.2"'>
+	<source src="vp9.webm" type='video/webm; codecs="vp9.0, opus"'>
+	<source src="theora.ogv" type='video/ogg; codecs="theora, vorbis"'>
+	<p>This is fallback content to display for user agents that do not support the video tag.</p>
+</video>
